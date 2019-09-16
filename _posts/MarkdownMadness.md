@@ -1,9 +1,10 @@
+---
 layout: post
 title: Markdown Madness
 ---
 
-# Variance Equation
-#####$\sigma^2=\frac{\sum_{i=1}^{n}(y_i-\overline{y})^2}{n-1}$
+Variance Equation
+$\sigma^2=\frac{\sum_{i=1}^{n}(y_i-\overline{y})^2}{n-1}$
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
