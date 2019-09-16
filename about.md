@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student in MDS, UBC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am now in Vancouver.
+I would like to be a data scientist after graduation
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[757767850@qq.com](mailto:email@domain.com)
