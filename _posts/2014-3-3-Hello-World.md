@@ -3,7 +3,7 @@ layout: post
 title: Hello, world!
 ---
 
-Today is a sunny day! What a wonderful world we live in!
+Today is a sunny day! What a wonderful world we live in! Hello world!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
